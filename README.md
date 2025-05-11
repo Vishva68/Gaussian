@@ -15,13 +15,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Program:
 ```
-/*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: Shreedhar kumar .K.J
-RegisterNumber:24901118
-*/
-```
-```
+Developed by: Vishvanandh N
+RegisterNumber:212224240186
+
+
 import numpy as np
 import sys
 n=int(input())
